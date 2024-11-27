@@ -3,7 +3,7 @@
 <h2>👨‍💻 Personal Projects:</h2>
 
 - <b>[SOC Analyst Home Lab](https://github.com/IsmailEdris/SOC/tree/main)</b>
-- <b>[Azure SIEM Implementation](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- <b>[Azure SIEM Implementation](https://github.com/IsmailEdris/Azur_SIEM)</b>
 
 <h2>📄 Certifications</h2>
 <ul>    
