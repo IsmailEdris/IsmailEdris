@@ -4,6 +4,7 @@
 
 - <b>[SOC Analyst Home Lab](https://github.com/IsmailEdris/SOC/tree/main)</b>
 - <b>[Azure SIEM Implementation](https://github.com/IsmailEdris/Azur_SIEM)</b>
+- **[Vulnerability Management with Nessus](https://github.com/IsmailEdris/Vulnerabilit_Management_Lab/tree/main)**
 
 <h2>📄 Certifications</h2>
 <ul>    
