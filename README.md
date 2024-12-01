@@ -3,8 +3,8 @@
 <h2>👨‍💻 Personal Projects:</h2>
 
 - <b>[SOC Analyst Home Lab](https://github.com/IsmailEdris/SOC/tree/main)</b>
-- <b>[Azure SIEM Implementation](https://github.com/IsmailEdris/Azur_SIEM)</b>
-- **[Vulnerability Management with Nessus](https://github.com/IsmailEdris/Vulnerabilit_Management_Lab/tree/main)**
+- <b>[Azure SIEM/Honeypot Implementation](https://github.com/IsmailEdris/Azur_SIEM)</b>
+- **[Vulnerability Management and Malware Analysis with Nessus](https://github.com/IsmailEdris/Vulnerabilit_Management_Lab/tree/main)**
 
 <h2>📄 Certifications</h2>
 <ul>    
