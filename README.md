@@ -5,6 +5,7 @@
 - <b>[SOC Analyst Home Lab](https://github.com/IsmailEdris/SOC/tree/main)</b>
 - <b>[Azure SIEM/Honeypot Implementation](https://github.com/IsmailEdris/Azur_SIEM)</b>
 - **[Vulnerability Management and Malware Analysis with Nessus](https://github.com/IsmailEdris/Vulnerabilit_Management_Lab/tree/main)**
+- **[Hacking a Windows Server using the Metasploit Framework (msf)](Link)**
 
 <h2>📄 Certifications</h2>
 <ul>    
