@@ -3,7 +3,7 @@
 <h2>👨‍💻 Personal Projects:</h2>
 
 - <b>[SOC Analyst Home Lab](https://github.com/IsmailEdris/SOC/tree/main)</b>
-- **[Cybersecurity Home Lab For Detecting and Monitoring](link)**
+- **[Cybersecurity Home Lab For Detecting and Monitoring](https://github.com/IsmailEdris/Cybersecurity_Homelab_for_Detection_and_Monitoring/tree/main)**
 - <b>[Azure SIEM/Honeypot Implementation](https://github.com/IsmailEdris/Azur_SIEM)</b>
 - **[Vulnerability Management and Malware Analysis with Nessus](https://github.com/IsmailEdris/Vulnerabilit_Management_Lab/tree/main)**
 - **[Hacking a Windows Server using the Metasploit Framework (msf)](https://github.com/IsmailEdris/Ethical_Hacking_a_Windows_Server_with_MSF/tree/main)**
