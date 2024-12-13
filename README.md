@@ -3,6 +3,7 @@
 <h2>👨‍💻 Personal Projects:</h2>
 
 - <b>[SOC Analyst Home Lab](https://github.com/IsmailEdris/SOC/tree/main)</b>
+- **[SOC Automation Home Lab](https://github.com/IsmailEdris/SOC_Atuomation_Lab/tree/main)
 - **[Cybersecurity Home Lab For Detecting and Monitoring](https://github.com/IsmailEdris/Cybersecurity_Homelab_for_Detection_and_Monitoring/tree/main)**
 - <b>[Azure SIEM/Honeypot Implementation](https://github.com/IsmailEdris/Azur_SIEM)</b>
 - **[Vulnerability Management and Malware Analysis with Nessus](https://github.com/IsmailEdris/Vulnerabilit_Management_Lab/tree/main)**
