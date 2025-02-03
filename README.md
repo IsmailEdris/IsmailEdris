@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ismail!</h1>
+<h1>Hi, I'm Mohammad!</h1>
 
 <h2>👨‍💻 Personal Projects:</h2>
 
